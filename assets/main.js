@@ -196,7 +196,7 @@ eval("\n// EXTERNAL MODULE: ./node_modules/react/index.js\nvar react = __webpack
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "";
+/******/ 		__webpack_require__.p = "/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
