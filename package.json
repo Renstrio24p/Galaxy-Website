@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Your project description",
   "main": "./src/index.jsx",
+  "homepage": "https://github.com/Renstrio24p/Galaxy-Website",
   "scripts": {
     "start": "webpack-dev-server --mode development --config webpack.config.js",
     "build": "webpack --mode production --config webpack.config.js",
